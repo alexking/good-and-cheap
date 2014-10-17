@@ -2,11 +2,11 @@
 
 This repository contains machine readable versions of [Good and Cheap: Eat Well on $4/Day](http://www.leannebrown.com/buy/good-and-cheap) by [Leanne Brown](http://www.leannebrown.com). This project is possible because she released the book under a **Creative Commons Attribution-NonCommercialShareAlike** license. Please support openly licensed works and [check out her site](http://www.leannebrown.com), or consider [buying a print copy](http://www.leannebrown.com/buy/good-and-cheap)!
 
+![cover-image](readme-2.png)
+
 **This data is a work in progress, not all recipes have been added yet, and since they were converted by hand from the PDF, there may be some typos, inaccuracies, etc.** 
 
 Issues and pull requests are welcome!
-
-![cover-image](readme-2.png)
 
 ## Formats
 
