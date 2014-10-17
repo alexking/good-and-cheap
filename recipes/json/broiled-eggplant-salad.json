@@ -1,0 +1,39 @@
+{
+  "source": {
+    "title": "Good and Cheap: Eat Well on $4/Day",
+    "attribution": "Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.",
+    "url": "http://www.leannebrown.com/s/good-and-cheap.pdf",
+    "license": {
+      "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+      "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+    },
+    "modified": "PDF to machine format and other changes"
+  },
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+    "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+  },
+  "author": {
+    "name": "Leanne Brown",
+    "site": "http://www.leannebrown.com"
+  },
+  "name": "Broiled Eggplant Salad",
+  "page": 43,
+  "category": "salad",
+  "serves": 2,
+  "estimate": "4.50 USD",
+  "description": "Even if you aren’t a big eggplant fan, you might enjoy this despite yourself. Broiled eggplant has a crunchy and meaty texture, and the tahini dressing makes the salad rich and creamy.\n",
+  "ingredients": {
+    "required": [
+      "1 medium eggplant, sliced into circles",
+      "1 tbsp lemon juice",
+      "1 tbsp tahini",
+      "salt and pepper"
+    ],
+    "optional": [
+      "sprinkle of chili flakes",
+      "fresh dill, finely chopped"
+    ]
+  },
+  "instructions": "Turn on your oven’s broiler. Arrange the slices of eggplant on a baking sheet, then place them under the broiler for about 3 minutes. Watch them carefully. Once they begin to blacken, remove them from the oven and flip the slices over. Repeat the process on the other side. Once your eggplant is nicely charred, chop it into bite-sized pieces.\n\nIn a bowl, mix the tahini, lemon juice, and chili flakes (if using), plus plenty of salt and pepper. Add the eggplant and stir it around. Add more salt or lemon juice according to your taste, then top it with dill if available, and serve!"
+}

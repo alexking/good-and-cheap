@@ -1,0 +1,32 @@
+!include: _header.yaml
+
+name: Spicy Green Beans
+page: 59
+category: bites
+
+serves: 2
+estimate: 1.30 USD
+
+description: |
+  Whenever I make these, I think, “why don’t I have this every day?” Throw a fried egg on top, serve with rice, and you have a delicious meal.
+
+ingredients:
+  required:
+    - 1 tsp vegetable oil
+    - ½ lb green beans, ends trimmed, chopped into bite-size pieces 
+    - 2 cloves garlic, finely chopped
+    - 1 tsp soy sauce 
+    - 1 tsp sambal oelek (or 2 tsp chili flakes)
+
+  additions:
+    - 1 tsp ginger, grated
+    - 1 tsp lemon juice
+
+instructions: |
+  Add the vegetable oil to a frying pan on medium heat. Once it’s hot, add the green beans. Let them cook undisturbed for about 1 minute.
+
+  Mix the garlic, soy sauce, and sambal oelek in a bowl (and the ginger and lemon juice, if using).
+
+  The beans should have turned bright green. Add about ¼ cup of water to the pan. Cook another 2 minutes, until the water is mostly gone. Pour the sauce into the pan and toss gently to coat. Cook another 2 minutes, until everything is fragrant and most of the liquid is gone. Poke the beans with a fork: if it goes through easily, they’re done. They should take about 5 minutes.
+
+  Taste and add more chili sauce or soy sauce if you want the beans hotter or saltier.

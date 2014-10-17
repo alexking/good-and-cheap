@@ -1,0 +1,60 @@
+{
+  "source": {
+    "title": "Good and Cheap: Eat Well on $4/Day",
+    "attribution": "Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.",
+    "url": "http://www.leannebrown.com/s/good-and-cheap.pdf",
+    "license": {
+      "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+      "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+    },
+    "modified": "PDF to machine format and other changes"
+  },
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+    "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+  },
+  "author": {
+    "name": "Leanne Brown",
+    "site": "http://www.leannebrown.com"
+  },
+  "name": "Roasted Vegetables",
+  "page": 122,
+  "category": "dinner",
+  "description": "When the weather turns cool, I want only to eat warm, flavorful food. Roasting is easy, it warms up the kitchen, and it makes the house smell like the holidays. If you’re uncertain how to prepare a new vegetable, you usually can’t go wrong with roasting— most things end up sweeter, with nice crunchy bits. If you roast a bunch of vegetables at the beginning of the week, you can eat them throughout the week in various ways: with eggs at breakfast, folded into an omelette, as a side dish, in a taco or sandwich, on toast, or with any grain.\n",
+  "ingredients": {
+    "required": [
+      "vegetables",
+      "olive oil or butter",
+      "salt and pepper"
+    ],
+    "roots": [
+      "potatoes",
+      "sweet potatoes",
+      "beets",
+      "turnips",
+      "onions",
+      "parsnips",
+      "carrots",
+      "sunchokes",
+      "kohlrabi",
+      "fennel"
+    ],
+    "non-roots": [
+      "bell peppers",
+      "winter squash",
+      "broccoli",
+      "Brussels sprouts",
+      "cauliflower",
+      "asparagus",
+      "eggplant"
+    ],
+    "extras": [
+      "whole garlic cloves (unpeeled)",
+      "lemon slices or lemon zest",
+      "anything you would pair with roast chicken",
+      "tough herbs like sage, oregano, thyme, bay leaves",
+      "any dry spice combination (p. 166)"
+    ]
+  },
+  "instructions": "Set the oven to 400 °F.\n\nClean and chop your vegetables. Generally, I prefer to leave the skin on for the following reasons: skin tastes nice and gets crispy; there’s a lot of nutrition in the skin; peeling is slow! Just be sure to wash the vegetables thoroughly.\n\nIt’s up to you how you want to chop your vegetables. Many are nice roasted whole, like new potatoes or little sunchokes or turnips—they will be crispy and salty on the outside and bursting with fluffy, starchy goodness inside. The general rule is that the smaller you chop things, the faster they cook, so try to keep everything about the same size so nothing cooks faster than anything else.\n\nDump your vegetables into a roasting pan. Drizzle everything with olive oil or melted butter—about 2 tablespoons per medium-sized roasting pan. Season generously with salt and pepper and add any other extras from the list at right. Use your hands to coat the vegetables thoroughly with the oil and spices.\n\nPop the pan in the oven for 1 hour or longer, but check on the vegetables after 45 minutes. Test them by poking them with a knife. If it meets no resistance, they’re finished; if not, let them cook longer. Don’t worry: it’s not much of a problem if you overcook them. Unlike vegetables overcooked through boiling or steaming, overcooked roasted vegetables may dry out a bit, but still retain their shape and flavor.\n\nAfter you pull the vegetables out of the oven, push them around with a spatula to free them from the pan. Remove any garlic cloves and smash them into a fine paste (removing the skins at this point), then put the garlic back in the pan and mix together.\n\nSqueeze the juice out of any lemons and discard the woody bits of any cooked herbs. Add a little more butter, a bit of favorite sauce, a little soft cheese or mayonnaise, and serve.    \n\nTurn the page for another great idea for [roasted veggies](roasted-potatoes-with-chilies.yaml)."
+}

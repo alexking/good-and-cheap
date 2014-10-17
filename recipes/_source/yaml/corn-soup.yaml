@@ -1,0 +1,49 @@
+!include: _header.yaml
+
+name: Corn Soup
+page: 36
+category: soup
+
+serves: 4-6
+estimate: 5.00 USD
+
+description: |
+  This thick, sweet, satisfying soup is a favorite of kids and adults. This is wonderful to make at the beginning of autumn when corn on the cob is at its peak, but canned corn can also make it a warm reminder of summer in the depths of winter.
+
+ingredients:
+  required:
+    - 4 cups corn, fresh, canned, or frozen
+    - 1 tbsp butter
+    - 1 onion, finely chopped
+    - 2 sticks celery, finely chopped
+    - 1 green or red bell pepper, finely chopped
+    - 1 small potato, diced
+    - 4 cloves garlic, finely chopped
+    - 1 chili pepper, finely chopped (optional)
+    - 1 tbsp cornmeal or flour 
+    - salt and pepper
+
+  corn broth:
+    - 4 to 8 cobs corn, with corn removed
+    - 2 bay leaves (optional) 
+    - salt
+
+  alternate broth:
+    - 5 cups vegetable broth or chicken stock
+
+instructions: |
+  If you’re making this soup with corn on the cob, the first step is to make corn broth. If you’re using canned or frozen corn, you’ll also need chicken or vegetable broth instead. In that case, skip the next paragraph.
+
+  To make corn broth, place the cobs and bay leaves in a large stockpot and cover with water. Bring to a boil over high heat, then turn the heat down to medium and let the water boil for about 30 minutes. Taste the broth and add salt and pepper until it tastes lightly corny. Boil it down until you have about 5 cups of liquid. The broth will keep for several months if frozen, or a few weeks in the refrigerator.
+
+  To make the soup, melt the butter in a large pot or Dutch oven on medium heat. Add onion, celery, bell pepper, and potato, then stir. Cover the pot and let everything fry and steam for about 5 minutes.
+
+  Take the lid off the pot and add the garlic and chili pepper, if using. Stir the vegetables, using a splash of water or broth to free any that get stuck to the bottom of the pot.
+
+  Let the vegetables cook, stirring occasionally, for another 5 minutes. They should be lightly browned and soft, although the potatoes will not be fully cooked yet.
+
+  Add the corn and cornmeal or flour to the pot and stir. Cover with about 5 cups of broth and bring to a boil, then turn the heat down to low and simmer for about 30 minutes. The broth will thicken and become opaque.
+
+  Add salt and pepper to taste. If you made your own corn broth, you’ll probably need at least a teaspoon of salt; if you used store-bought broth, you’ll need less.
+
+  Serve with a slice of garlic bread or add a hard-boiled egg for extra protein.

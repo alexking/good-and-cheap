@@ -1,0 +1,30 @@
+!include: _header.yaml
+
+name: Beet and Chickpea Salad
+page: 53
+category: salad
+
+serves: 2
+estimate: 3.50 USD
+
+description: |
+  This dish is spicy, crunchy, and almost certainly the pinkest salad you’ll ever eat! Don’t be scared.
+
+ingredients:
+  required:
+    - 2 to 3 beets, peeled and grated
+    - 1 cup chickpeas, cooked or canned
+    - 3 tbsp peanuts
+
+  dressing:
+    - 1 tbsp lime juice
+    - 1 tsp chili sauce
+    - 1 tbsp olive oil
+    - salt and pepper
+
+instructions: |
+  Peel the raw beets, removing the stems if necessary, then shred the beets with a box grater. Place the beets in a bowl along with the chickpeas and nuts. 
+
+  Mix up the dressing ingredients in another small bowl and stir to combine. Taste and adjust the salt and pepper to your liking. 
+
+  Add the dressing to the other bowl and mix up all the ingredients. Let it sit for about 5 minutes so that the flavors can soak into the vegetables and the beet juices can mingle with the dressing.

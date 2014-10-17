@@ -1,0 +1,45 @@
+{
+  "source": {
+    "title": "Good and Cheap: Eat Well on $4/Day",
+    "attribution": "Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.",
+    "url": "http://www.leannebrown.com/s/good-and-cheap.pdf",
+    "license": {
+      "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+      "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+    },
+    "modified": "PDF to machine format and other changes"
+  },
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+    "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+  },
+  "author": {
+    "name": "Leanne Brown",
+    "site": "http://www.leannebrown.com"
+  },
+  "name": "Potato and Kale Rolls with Raita",
+  "page": 84,
+  "category": "handheld",
+  "serves": 4,
+  "makes": 8,
+  "estimate": "5.25 USD",
+  "description": "These are a great meal to make when you have leftover roti and raita. The filling comes together in minutes and could be anything, but potatoes and greens are tasty and filling.\n",
+  "ingredients": {
+    "required": [
+      "8 [roti](roti.yaml)",
+      "2 large or 4 medium potatoes, chopped",
+      "1 bunch kale or spinach, chopped with stems removed",
+      "1 tbsp ghee or butter",
+      "1 tsp cumin seeds",
+      "½ cup onion, finely chopped",
+      "3 cloves garlic, finely chopped",
+      "1 tbsp ginger, finely grated",
+      "1 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp cayenne powder",
+      "[raita](raita.yaml)",
+      "fresh cilantro"
+    ]
+  },
+  "instructions": "Put a skillet on medium heat and add the ghee or butter. (Ghee, which is traditional in Indian cooking, is just butter with the milk solids removed, and it can withstand higher temperatures than butter without burning.)\n\nOnce the butter is hot, add the cumin seeds and let them sizzle for 5 seconds before adding the diced onion. Let the onion cook for 2 minutes, stirring occasionally.\n\nIn a small bowl, mix the garlic, ginger, turmeric, coriander, cayenne powder, salt, and 1 tablespoon of water.\n\nAdd the spices to the onion mixture and mix, cooking for another 2 minutes. It will smell strongly aromatic. This step is important because the spices become toasted and release their flavor.\n\nNext, add the potatoes. Stir to coat them with the onions and spices. Add about a cup of water and cover the pan with a lid. Let it cook for about 10 minutes, checking occasionally to stir and make sure nothing is burning. Add more water as needed. You want the final mixture to be only a bit moist, but the water helps everything cook evenly.\n\nTest the potatoes with a fork: if you can easily pierce them, they’re ready. Once they are, add the kale and stir until the kale is wilted. Taste and add more salt if needed.\n\nTo assemble the rolls, scoop 1/8 of the mixture into the center of a roti, distributing it in an even line. Roll it up.\n\nServe two roti per person with cilantro and a generous dollop of raita, either over the top or on the side."
+}

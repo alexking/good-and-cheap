@@ -1,0 +1,38 @@
+!include: _header.yaml
+
+name: Pizza Dough
+page: 139
+category: staples
+
+makes: 4
+estimate: 0.80 USD
+
+description: |
+  There are two ways to make pizza dough: the fast way and the slow way. They’re the same amount of work, just with different waits. The slow method is convenient for a weekday if you make it before bed the night before, pop it in the fridge, then pull it out to rise before dinner.
+
+ingredients:
+  required:
+    - 3 cups all-purpose or bread flour
+    - 1½ tsp salt
+    - ½ to 1 tsp instant yeast
+    - 1 tbsp olive oil
+    - 1¼ cup water
+
+instructions: |
+  # Fast Method 
+  
+  Measure out the flour, salt and a teaspoon of yeast into a big bowl. Mix the oil into the flour with your hands, crumbling it until the texture is a bit sandy, then add the room-temperature water. Keep mixing with your hands until it comes together.
+
+  Knead the dough on a lightly floured countertop for 5 to 7 minutes, until it becomes a smooth elastic ball. The dough will be smooth but quite wet.
+
+  Add a small amount of oil to a bowl. Place your dough ball in the bowl and cover with plastic wrap. Let it rise for 1½ to 3 hours, depending on the warmth of your kitchen. It’s done rising when it has doubled in size. Then it’ll be ready to shape into your favorite pizza!
+
+  # Slow Method
+
+  If you’re organized enough to make the slow dough, I recommend taking the extra time: it’s the best.
+  
+  Use the same process as [the fast method], but add only ½ teaspoon of yeast to the flour mixture. Rather than room temperature, the water should be very cold.
+
+  After you place the dough ball in a bowl and cover it, put it into the fridge overnight. Letting the yeast work overnight creates a better flavor; it also makes the dough more elastic and easier to work with. 
+
+  The next day, 2 to 3 hours before you want to bake your pizzas, remove the dough from the fridge to return to room temperature.

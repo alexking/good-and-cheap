@@ -1,0 +1,50 @@
+{
+  "source": {
+    "title": "Good and Cheap: Eat Well on $4/Day",
+    "attribution": "Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.",
+    "url": "http://www.leannebrown.com/s/good-and-cheap.pdf",
+    "license": {
+      "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+      "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+    },
+    "modified": "PDF to machine format and other changes"
+  },
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+    "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+  },
+  "author": {
+    "name": "Leanne Brown",
+    "site": "http://www.leannebrown.com"
+  },
+  "name": "Taco Salad",
+  "page": 52,
+  "category": "salad",
+  "serves": 2,
+  "estimate": "5.20 USD",
+  "description": "This salad is a great use for leftover beans (or pulled pork)—crunchy, fresh, yet satisfying enough to be a whole meal. I like to make taco salad in a week where I’ve made a large batch of beans and I’m craving something fresh.\n",
+  "ingredients": {
+    "required": [
+      "4 cups lettuce, chopped",
+      "1 cup beans, pulled pork, or ground beef",
+      "2 small tomatoes, chopped",
+      "½ cup corn, canned or fresh",
+      "2-3 scallions, finely chopped",
+      "1 cup tortilla chips, roughly crushed",
+      "sharp cheddar or queso fresco, for sprinkling"
+    ],
+    "dressing": [
+      "¼ cup sour cream or yogurt",
+      "juice of one lime",
+      "salt and pepper"
+    ],
+    "additions": [
+      "cucumber",
+      "jalapeño",
+      "bell peppers",
+      "grated carrots",
+      "salsa (p. 163)"
+    ]
+  },
+  "instructions": "Mix up the dressing and taste it. Adjust the salt, pepper, and lime to your liking. \n\nMix the other ingredients in a large bowl. Pour the dressing over just before serving and toss to coat the salad evenly. Eat immediately, maybe with a few extra tortilla chips on the side."
+}

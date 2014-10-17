@@ -1,0 +1,33 @@
+!include: _header.yaml
+
+name: Raita
+page: 164
+category: flavor
+
+makes: 2 cups
+estimate: 2.50 USD
+
+description: |
+  Raita is a traditional Indian sauce served with all kinds of things. It’s simple and surprisingly tasty. Spoon it onto [chana masala](chana-masala.yaml), the [potato and kale rolls](potato-and-kale-rolls-with-raita.yaml), or anything spicy to cool things down.
+
+ingredients:
+  required:
+    - 1 cup cucumber, chopped
+    - ½ cup tomato, chopped
+    - ¼ cup red onion, chopped
+    - 1 cup yogurt 
+    - 1 tsp cumin powder 
+    - ½ tsp cayenne powder 
+    - 2 tbsp fresh cilantro, chopped
+    - salt and pepper
+
+  additions:
+    - 1 tbsp ginger, grated
+    - 2 tbsp mint 
+    - ¼ cup chickpeas 
+    - cooked spinach
+
+instructions: |
+  This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
+
+  After you stir all the ingredients together, store the raita in a covered container in the fridge until you’re ready to use it.

@@ -1,0 +1,116 @@
+{
+  "source": {
+    "title": "Good and Cheap: Eat Well on $4/Day",
+    "attribution": "Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.",
+    "url": "http://www.leannebrown.com/s/good-and-cheap.pdf",
+    "license": {
+      "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+      "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+    },
+    "modified": "PDF to machine format and other changes"
+  },
+  "license": {
+    "name": "Creative Commons Attribution-NonCommercialShareAlike 4.0",
+    "url": "http://www.creativecommons.org/licenses/by-nc-sa/4.0"
+  },
+  "author": {
+    "name": "Leanne Brown",
+    "site": "http://www.leannebrown.com"
+  },
+  "name": "Oatmeal",
+  "page": 28,
+  "category": "breakfast",
+  "serves": 2,
+  "estimate": "0.25 USD",
+  "description": "This basic recipe can be dressed up in so many ways, you’ll never get bored. Oatmeal makes a hot and comforting breakfast; it’ll give you energy for a great morning. It’s also extremely inexpensive, so you can spend a bit more on lunch and dinner.\n",
+  "ingredients": {
+    "required": [
+      "1 cup rolled oats",
+      "2 cups water",
+      "¼ tsp salt"
+    ]
+  },
+  "instructions": "In a small pot, add the oats, water and salt. Place it on medium-high heat, just until the water comes to a boil. Immediately turn the heat to low and place a lid on the pot. Cook for 5 minutes, until the oats are soft and tender and most of the water has cooked off. You can add more water if you like your oatmeal smooth and thin, or use slightly less if you want a thick oatmeal.\nThis is just the basic recipe; several ideas for how to make it your own follow on the next pages. Whether it’s milky and sweet or savory and salty, I’m sure you can find a favorite way to enjoy a hot bowl of oats in the morning!",
+  "ways": {
+    "coconut and lime oatmeal": {
+      "page": 29,
+      "estimate": "1.50 USD",
+      "ingredients": {
+        "required": [
+          "¼ cup coconut, shredded",
+          "2 tbsp sugar",
+          "½ lime, juiced"
+        ]
+      },
+      "instructions": "Add the coconut and sugar to the oatmeal, water, and salt. Cook as normal. Turn off the heat and squeeze the juice of half a lime over the top."
+    },
+    "berry oatmeal": {
+      "page": 29,
+      "estimate": "1.10 USD",
+      "ingredients": {
+        "required": [
+          "½ cup berries, fresh or frozen",
+          "1 tbsp sugar"
+        ]
+      },
+      "instructions": "Cook the oatmeal as usual, but 2 minutes before it’s ready, add some fresh or frozen berries and the sugar, then stir to combine. There’s nothing more to the recipe than that, but it’s surprising how many variations you can come up with just by trying a new type of berry or combining several varieties."
+    },
+    "pumpkin oatmeal": {
+      "page": 30,
+      "estimate": "1.50 USD",
+      "ingredients": {
+        "required": [
+          "½ cup canned pumpkin",
+          "¾ cup milk (or almond / soy milk)",
+          "1¼ cups water",
+          "2 tbsp brown sugar",
+          "1 tsp cinnamon"
+        ],
+        "optional": [
+          "¼ tsp ginger powder",
+          "¼ tsp clove powder",
+          "maple syrup"
+        ]
+      },
+      "instructions": "Whisk the pumpkin, milk, and water in a pot. Add the oats, salt, sugar, and spices, but use just 1¼ cups water. Cook on medium-low until it bubbles. Turn to low for 5 more minutes. Add syrup or more sugar to taste."
+    },
+    "baklava oatmeal": {
+      "page": 30,
+      "estimate": "1.50 USD",
+      "ingredients": {
+        "required": [
+          "1 tsp cinnamon",
+          "1 tbsp orange zest, finely grated",
+          "4 tbsp honey",
+          "2 tbsp almonds or pistachios, chopped"
+        ]
+      },
+      "instructions": "Before cooking the oatmeal as normal, add the cinnamon, orange zest and 2 tablespoons of honey. Once it’s cooked, top each bowl with another tablespoon of honey and a tablespoon of nuts."
+    },
+    "apple cinnamon oatmeal": {
+      "page": 31,
+      "estimate": "2.00 USD",
+      "ingredients": {
+        "required": [
+          "2 cups apple juice or cider",
+          "1 tsp cinnamon",
+          "1 apple, cored and chopped"
+        ]
+      },
+      "instructions": "Cook the oats in juice and cinnamon instead of water. Top with the apple. If you want the apple to be soft and warm, cook it along with the oats."
+    },
+    "savory oatmeal": {
+      "page": 31,
+      "estimate": "1.50 USD",
+      "ingredients": {
+        "required": [
+          "2-3 scallions, finely chopped",
+          "¼ cup sharp cheddar, grated",
+          "1 tsp butter",
+          "2 eggs"
+        ]
+      },
+      "instructions": "Cook the oatmeal with scallions. Just before it’s done, add cheese. Melt the butter in a pan on medium heat. Crack in the eggs, then cover. Fry until the yolks are runny but the whites are cooked, then top each bowl of oats with one fried egg!"
+    }
+  }
+}

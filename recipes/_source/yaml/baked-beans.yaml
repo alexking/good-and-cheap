@@ -1,0 +1,53 @@
+!include: _header.yaml
+
+name: My Dad’s Baked Beans And Mine
+page: 101
+category: dinner
+
+serves: 2-4
+estimate: 3.00 USD
+
+description: |
+  My dad loves beans in basically any form. This is his formula for the quickest, easiest way to get beans on his plate without missing out on great flavor. Dad’s beans rely on a can of baked beans as the base, while my version uses dried beans you might have left over from another meal. Mine requires a little more cooking and chopping to create the sauce, but comes out even less expensive because of the dried beans. They both taste great, so go with what works best for you: super quick and cheap, or quick and cheaper.
+
+ways:
+  "My Dad's":
+    ingredients:
+      required:
+        - 2 cans (27 oz) baked beans
+        - 2 tbsp mustard
+        - 2 tbsp molasses or brown sugar
+        - 2 tsp chipotle en adobo, or any chili sauce
+
+    instructions: |
+      If you’re using the chipotle en adobo, chop it finely to be sure the spice will be evenly distributed.
+
+      Mix all the ingredients into a pot and heat on the stove until the beans are warmed through. Give it a stir and serve. Or do it all in the microwave—works just as well!
+
+      Serve with rice, or just in a bowl. For an English-style breakfast, try spreading the beans over toast. Or throw them into a burrito, or scramble them with eggs, or stir-fry with onions and bell pepper.
+
+  Mine:
+    ingredients: 
+      required:
+        - 3 cups dried pinto, red, or black beans, cooked
+        - ½ cup canned tomatoes, puréed or chopped, with juice
+        - ¼ onion, finely chopped
+        - 2 tbsp mustard 
+        - 2 tbsp molasses or brown sugar 
+        - 2 tsp chipotle en adobo, or any chili sauce
+
+      variations:
+        - spicy mustard
+        - no chipotle
+
+      toppings:
+        - salsa
+        - scallions
+        - fresh cilantro
+        - avocado
+        - tomato
+        - crumbled bacon
+        - chunks of ham
+
+    instructions: |
+      Cook everything in a pot on medium heat for approximately 5 minutes, or until the juices thicken. That’s it!

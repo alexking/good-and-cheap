@@ -1,0 +1,31 @@
+!include: _header.yaml
+
+name: Omelette
+page: 17
+category: breakfast
+
+serves: 2
+estimate: 1.60 USD
+
+description: |
+  I make this omelette at least once a week. It’s insanely delicious, whether laden with veggies or kept simple. I love it with dill, but it’s good with almost any herb or scallions. Once you are a pro at making this, add any other cooked veggies you have around.
+
+ingredients:
+  required:
+    - 4 eggs
+    - 2 tbsp fresh dill, finely chopped
+    - salt and pepper
+    - butter for the pan
+    - 1 shallot or ½ small red onion, finely diced
+    - ¼ cup grated cheese
+
+instructions: |
+  Crack the eggs in a bowl. Add the dill, salt, pepper, and beat with a fork.
+
+  Put a big saucepan on medium-high heat. Melt a small blob of butter in the pan. Once the butter is sizzling, add the onion and sauté for about two minutes, until it’s translucent and smells great.
+
+  Add the egg to the hot pan and swirl it around to coat the surface evenly. If the center of the omelette cooks more quickly than the edge, use a spatula to pull any raw egg into the middle. Then stop touching it.
+
+  After about 30 seconds, toss the cheese on top along with any other raw or cooked vegetable you feel like adding. Once none of the egg remains translucent, fold the omelette in half with your spatula, then lift it out of the pan. You don’t want any brown on your eggs.
+
+  If I’m serving two people, I usually cut one large omelette in half rather than making two omelettes. However, when you feel like being fancy, you can make a pair of two-egg omelettes simply by using half the ingredients for each. For extra fanciness, roll up the omelette instead of folding it—that’s how the French do it, traditionally. The result will be quite thin and tender.

@@ -1,0 +1,37 @@
+!include: _header.yaml
+
+name: Potato Leek Pizza
+page: 79
+category: handheld
+
+makes: 4
+estimate: 9.00 USD
+
+description: |
+  Obviously you should just make all kinds of pizza. Seriously, do it. Make it a Thursday-night tradition and an excuse to use up leftovers. This pizza, for one, is a fun variation that confounds expectations—proof that, indeed, anything is good on pizza!
+
+ingredients:
+  required:
+    - "[pizza dough](pizza-dough.yaml)"
+    - 2 tbsp olive oil
+    - 1 Russet potato or 3 small potatoes, sliced into thin circles
+    - 3 leeks, sliced into circles
+    - salt and pepper
+    - 1 lb fresh mozzarella, shredded
+
+instructions: |
+  Turn the oven to 500 °F.
+
+  Put a large pan on medium heat and add 1 tablespoon of olive oil. Once the oil is hot, add the potato slices evenly to the pan, making sure each slice is touching the bottom. (If you slice them thin enough, they’ll turn out almost like little chips.)
+  
+  Let them cook until they start to crinkle around the edges and turn brown. Flip them over and brown the other side, then move them to a bowl. Sprinkle with salt and pepper, then toss with your hands (after they cool down!) to make sure they’re evenly coated.
+  
+  Heat up another tablespoon of oil in the same pan, then toss in the leek slices, stirring occasionally until they’re soft, about 5 minutes. Toss them with the potato slices and add a bit more salt and pepper.
+  
+  Clear a space on the counter and sprinkle with flour. Divide your dough into 4 equal pieces. One at a time, stretch the doughs into crusts. You can use a rolling pin or just slowly use your fingers and hands. I like to make mine really thin and big, but it’s up to you how thick to make it.
+  
+  Once the crust is the desired shape and thickness, dust the back of a cookie sheet with flour or cornmeal to keep the crust from sticking, then place it the dough on the sheet.
+
+  Now layer it with ¼ of the potato and leek mixture and ¼ of the shredded mozzarella. Bake for 5 to 8 minutes. If it’s your first time, simply keep an eye on the oven to see when the pizza’s done. The crust should be light brown and the cheese melted.
+
+  Repeat the process until you’ve baked all your pizzas. If your oven is big enough, you can of course do more than one pizza at a time.

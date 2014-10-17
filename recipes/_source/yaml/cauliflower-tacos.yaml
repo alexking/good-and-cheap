@@ -1,0 +1,25 @@
+!include: _header.yaml
+
+name: Cauliflower Tacos
+page: 77
+category: handheld
+
+serves: 2-3
+estimate: 6.00 USD
+
+description: |
+  This is one of my favorite ways to use roasted cauliflower other than eating it straight. It’s a delicious change from the usual vegetable taco offerings. Just look at all those crunchy bits!
+
+ingredients:
+  required:
+    - "[roasted cauliflower](smoky-and-spicy-roasted-cauliflower.yaml)"
+    - 6 tortillas
+    - ½ cup cheese, grated
+    - ½ cup salsa (p. 163) or sauce of choice
+
+instructions: |
+  Warm up the tortillas in the microwave for 20 to 30 seconds, or put them in a warm oven covered with a towel while you prepare everything else.
+  
+  Place two to three tortillas on each plate and fill with a generous serving of cauliflower.
+
+  Sprinkle the grated cheese over top and drizzle with salsa or sauce of your choice. Enjoy!
