@@ -4,7 +4,7 @@ This repository contains machine readable versions of [Good and Cheap: Eat Well 
 
 ![cover-image](readme-2.png)
 
-**This data is a work in progress, not all recipes have been added yet, and since they were converted by hand from the PDF, there may be some typos, inaccuracies, etc.** 
+**This data is a work in progress, not all recipes have been added yet, and since they were converted by hand from the PDF, there may be some typos, inaccuracies, format inconsistencies, etc.** 
 
 Issues and pull requests are welcome!
 
@@ -20,6 +20,8 @@ Issues and pull requests are welcome!
 I've included a [Javascript reference client](http://alexking.github.io/good-and-cheap/) to help in checking the data, and developing the format. You can view it on [github pages](http://alexking.github.io/good-and-cheap/), or start it locally using `rake serve`.
 
 ![reference](readme-1.png)
+
+This is also a work in progress, and doesn't understand how `ways` elements work yet. 
 
 ### Data
 Data is available in YAML or JSON, and recipes use the following format specification. 
@@ -81,7 +83,6 @@ Allows variations to the ingredients, instructions, or any other property to be 
 			instructions: At the end, add the pepper.
 
 For fields that contain lists (such as `ingredients` and `instructions`), the base list will be added to. Fields that contain values (such as `estimate` or `page`) replace the base value.
-
 
 ## Contribute
 All data entry takes place in the `/recipes/source` folder as `YAML`. The rest of the formats are generated using `rake`, so in order to change them, you need to edit the data in the source `YAML`, then run `rake` to regenerate. 
