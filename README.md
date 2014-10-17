@@ -1,4 +1,4 @@
-# *Good and Cheap* in JSON
+# *Good and Cheap* by Leanne Brown in `JSON`
 
 This repository contains machine readable versions of [Good and Cheap: Eat Well on $4/Day](http://www.leannebrown.com/buy/good-and-cheap) by [Leanne Brown](http://www.leannebrown.com). This project is possible because she released the book under a **Creative Commons Attribution-NonCommercialShareAlike** license. Please support openly licensed works and [check out her site](http://www.leannebrown.com), or consider [buying a print copy](http://www.leannebrown.com/buy/good-and-cheap)!
 
