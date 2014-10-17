@@ -14,6 +14,11 @@ Issues and pull requests are welcome!
 - **Images**
 	- Full Size
 
+## Demo
+I've included a [Javascript reference client](http://alexking.github.io/good-and-cheap/) to help in checking the data, and developing the format. You can view it on [github pages](http://alexking.github.io/good-and-cheap/), or start it locally using `rake serve`.
+
+![reference](readme-1.png)
+
 ### Data
 Data is available in YAML or JSON, and recipes use the following format specification. 
 
