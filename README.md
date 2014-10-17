@@ -6,6 +6,8 @@ This repository contains machine readable versions of [Good and Cheap: Eat Well 
 
 Issues and pull requests are welcome!
 
+![cover-image](readme-2.png)
+
 ## Formats
 
 - **Data**
