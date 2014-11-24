@@ -102,4 +102,4 @@ Source file is [available here](http://www.leannebrown.com/good-and-cheap.pdf) [
 
 The original material has been modified to a machine readable format, along with other changes. The results are share-alike'd under [Creative Commons Attribution NonCommercial-ShareAlike 4.0](http://www.creativecommons.org/licenses/by-nc-sa/4.0).
 
-The **code** (i.e. not recipes, recipe images) in this repository that is used to process recipes, etc., is released into the public domain via the [unlicense](http://unlicense.org). The CommonMark parser is [BSD3](https://github.com/alexking/good-and-cheap/blob/master/javascript/stmd/LICENSE).
+The **code** (i.e. not recipes, recipe images) in this repository that is used to process recipes, etc., is released into the public domain via the [unlicense](http://unlicense.org). The CommonMark parser is [BSD3](/javascript/stmd/LICENSE).
