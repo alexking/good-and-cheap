@@ -85,7 +85,7 @@ Allows variations to the ingredients, instructions, or any other property to be 
 For fields that contain lists (such as `ingredients` and `instructions`), the base list will be added to. Fields that contain values (such as `estimate` or `page`) replace the base value.
 
 ## Contribute
-All data entry takes place in the `/recipes/source` folder as `YAML`. The rest of the formats are generated using `rake`, so in order to change them, you need to edit the data in the source `YAML`, then run `rake` to regenerate. 
+All data entry takes place in the `/recipes/source` folder as `YAML`. The rest of the formats are generated using `rake` (please use 10.4+), so in order to change them, you need to edit the data in the source `YAML`, then run `rake` to regenerate. 
 
 ## License
 **Good and Cheap: Eat Well on $4/Day** by [Leanne Brown](http://www.leannebrown.com)
