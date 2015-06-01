@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 126
 category: dinner
 serves: 2
 estimate: 9.00 USD
-description: |
-  This meal comes together so quickly it’s astonishing. Broiled fish is crispy on the outside and flaky and moist on the inside. If you quickly sauté some vegetables while the fish cooks, dinner will be on the table in minutes.
+description: 'This meal comes together so quickly it’s astonishing. Broiled fish is crispy on the outside and flaky and moist on the inside. If you quickly sauté some vegetables while the fish cooks, dinner will be on the table in minutes.
+
+'
 ingredients:
   required:
   - 2 fillets tilapia or other white fish
@@ -29,14 +29,4 @@ ingredients:
   - 1/2 tsp garlic powder
   - 1/2 tsp oregano
   - 1/2 lime, juiced
-instructions: "Turn your oven’s broiler to high. \n\nMix the spices together in a
-  small bowl. Sprinkle them over both sides of the fish and massage gently with your
-  fingers to cover thoroughly in the spices. \n\nLay the fish on a baking pan lined
-  with aluminum foil. \n\nBroil for 4 to 7 minutes. The fish will cook very quickly,
-  so after 4 minutes, check to see if they’re done by gently inserting a butter knife
-  into the thickest part. If it goes through easily and the fish flakes apart, you’re
-  done. If the knife meets resistance and the fish stays together, put the fillets
-  back under the broiler for another few minutes. Once you’ve done this once or twice,
-  you’ll be able to tell when your fish is done at a glance. \n\nWhen the fish is
-  done, squeeze a lime over it. Serve with rice or a favorite side dish like [spicy
-  green beans](spicy-green-beans.yaml#59)."
+instructions: "Turn your oven’s broiler to high. \n\nMix the spices together in a small bowl. Sprinkle them over both sides of the fish and massage gently with your fingers to cover thoroughly in the spices. \n\nLay the fish on a baking pan lined with aluminum foil. \n\nBroil for 4 to 7 minutes. The fish will cook very quickly, so after 4 minutes, check to see if they’re done by gently inserting a butter knife into the thickest part. If it goes through easily and the fish flakes apart, you’re done. If the knife meets resistance and the fish stays together, put the fillets back under the broiler for another few minutes. Once you’ve done this once or twice, you’ll be able to tell when your fish is done at a glance. \n\nWhen the fish is done, squeeze a lime over it. Serve with rice or a favorite side dish like [spicy green beans](spicy-green-beans.yaml#59)."

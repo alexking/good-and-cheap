@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 22
 category: breakfast
 makes: 6
 estimate: 4.50 USD
-description: |
-  These are delicious for breakfast or with a plate of beans, a pile of vegetables, or alongside a chili or stew. Spicy, cheesy, flaky—these are best eaten straight out of the oven.
+description: 'These are delicious for breakfast or with a plate of beans, a pile of vegetables, or alongside a chili or stew. Spicy, cheesy, flaky—these are best eaten straight out of the oven.
+
+'
 ingredients:
   required:
   - 1/2 cup butter

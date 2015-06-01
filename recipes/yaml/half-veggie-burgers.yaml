@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 102
 category: dinner
 serves: 8
 estimate: 7.20 USD
-description: |
-  When a reader named Quinn suggested a recipe that used both lentils and meat, I started thinking about how veggie burgers and beef burgers each have their own strengths. Why not combine the two ideas to create a burger with meaty flavor but the lean protein and low cost of lentils? And so I offer you the half-veggie burger. May it rest a little lighter in your belly.
+description: 'When a reader named Quinn suggested a recipe that used both lentils and meat, I started thinking about how veggie burgers and beef burgers each have their own strengths. Why not combine the two ideas to create a burger with meaty flavor but the lean protein and low cost of lentils? And so I offer you the half-veggie burger. May it rest a little lighter in your belly.
+
+'
 ingredients:
   required:
   - 3 cups lentils or beans, cooked

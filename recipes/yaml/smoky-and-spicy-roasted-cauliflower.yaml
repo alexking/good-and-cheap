@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 58
 category: bites
 serves: 4
 estimate: 3.40 USD
-description: |
-  Roasted veggies are always delicious, but there’s something magical that happens to cauliflower in the oven. It gets so crispy and nutty, and that flavor is brought out even more with the spices here. I’m happy to just eat a bowl of this for dinner, maybe with an egg on top.
+description: 'Roasted veggies are always delicious, but there’s something magical that happens to cauliflower in the oven. It gets so crispy and nutty, and that flavor is brought out even more with the spices here. I’m happy to just eat a bowl of this for dinner, maybe with an egg on top.
+
+'
 ingredients:
   required:
   - 1 head cauliflower, cut into small pieces

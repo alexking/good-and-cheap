@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 60
 category: bites
 serves: 4
 estimate: 4 USD
-description: |
-  This recipe takes fresh, sweet summer corn — already amazing — and adds salt, tang, and spice to the experience. If you have an outdoor grill, prepare the corn that way, but for those without, a broiler is a great  shortcut!
+description: 'This recipe takes fresh, sweet summer corn — already amazing — and adds salt, tang, and spice to the experience. If you have an outdoor grill, prepare the corn that way, but for those without, a broiler is a great  shortcut!
+
+'
 ingredients:
   required:
   - 4 cobs corn

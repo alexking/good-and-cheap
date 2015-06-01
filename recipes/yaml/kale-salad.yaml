@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 44
 category: salad
 serves: 2-4
 estimate: 4.50 USD
-description: |
-  This kale is treated like romaine lettuce in a Caesar salad. The bitterness of the greens is delicious alongside the rich, fatty dressing. You could also use Swiss chard. If you’re worried about the raw egg yolk in the dressing, feel free to omit it.
+description: 'This kale is treated like romaine lettuce in a Caesar salad. The bitterness of the greens is delicious alongside the rich, fatty dressing. You could also use Swiss chard. If you’re worried about the raw egg yolk in the dressing, feel free to omit it.
+
+'
 ingredients:
   required:
   - 1 large bunch kale

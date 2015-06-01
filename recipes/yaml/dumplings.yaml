@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 134
 category: batches
 makes: 60
 estimate: 7.20 USD
-description: |
-  My friend Raffaella comes from a huge family and fondly recalls making dumplings with her sisters growing up. (Her brothers just ate them.) Dumplings are a great way to use up veggies that don’t look fresh anymore. Minced inside a dumpling, they come back to life! I’ve provided a couple of ideas here, but as with so many recipes, the filling is up to you. If you mess up and it comes out bland, just dip the dumpling in soy sauce or chili sauce and you’ll still be happy.
+description: 'My friend Raffaella comes from a huge family and fondly recalls making dumplings with her sisters growing up. (Her brothers just ate them.) Dumplings are a great way to use up veggies that don’t look fresh anymore. Minced inside a dumpling, they come back to life! I’ve provided a couple of ideas here, but as with so many recipes, the filling is up to you. If you mess up and it comes out bland, just dip the dumpling in soy sauce or chili sauce and you’ll still be happy.
+
+'
 ingredients:
   dough:
   - 4 cups flour

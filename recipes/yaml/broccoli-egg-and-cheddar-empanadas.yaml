@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 83
 category: handheld
 makes: 12
 estimate: 7.20 USD
-description: |
-  In case you can’t tell by now, I am partial to tasty dough stuffed with something even tastier. Every culture has its own version, so when you think about it that way, having empanadas, dumplings, perogies, and calzones in one book isn’t that crazy—right? My friend Barb felt the same way, so I created this recipe for her.
+description: 'In case you can’t tell by now, I am partial to tasty dough stuffed with something even tastier. Every culture has its own version, so when you think about it that way, having empanadas, dumplings, perogies, and calzones in one book isn’t that crazy—right? My friend Barb felt the same way, so I created this recipe for her.
+
+'
 ingredients:
   required:
   - 2 cups all-purpose or whole-wheat flour

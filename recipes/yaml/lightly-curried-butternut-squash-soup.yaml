@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 40
 category: soup
 serves: 4
 estimate: 6.00 USD
-description: |
-  Squash is almost the perfect vegetable for soup: it’s flavorful and has a divinely smooth texture when cooked and puréed. Serve this soup to people who think they don’t like squash or curry, and you’ll change some minds. You can substitute any winter squash for the butternut; I just like butternut because it’s faster to peel and chop than its many cousins.
+description: 'Squash is almost the perfect vegetable for soup: it’s flavorful and has a divinely smooth texture when cooked and puréed. Serve this soup to people who think they don’t like squash or curry, and you’ll change some minds. You can substitute any winter squash for the butternut; I just like butternut because it’s faster to peel and chop than its many cousins.
+
+'
 ingredients:
   required:
   - 1 butternut squash or other winter squash

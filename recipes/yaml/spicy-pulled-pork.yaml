@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 129
 category: batches
 serves: 10
 estimate: 14.00 USD
-description: |
-  Pulled pork is a celebration, worthy of a special day. It’s incredibly flavorful, rich, spicy, and remarkably versatile. Although it seems expensive, it’s quite a bargain when you look at the price per serving. As with most celebratory meals, this one takes quite a long time to prepare. Most of the time, however, is just spent waiting for it to cook “low and slow.”
+description: 'Pulled pork is a celebration, worthy of a special day. It’s incredibly flavorful, rich, spicy, and remarkably versatile. Although it seems expensive, it’s quite a bargain when you look at the price per serving. As with most celebratory meals, this one takes quite a long time to prepare. Most of the time, however, is just spent waiting for it to cook “low and slow.”
+
+'
 ingredients:
   required:
   - 5 lb pork shoulder

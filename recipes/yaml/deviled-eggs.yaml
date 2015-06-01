@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page:
 category: 
 makes: 24 half eggs
 estimate: USD
-description: |
-  Deviled eggs are my favorite party food and the perfect recipe to dedicate to my friend Camilla. At parties, I often eat too much random junk food and end up feeling gross. These eggs are a great antidote: festive and delicious without being empty calories. Although they’re a little fussy, they aren’t actually difficult to make. I’ll start you off with these few ideas, but you can add whatever flavors suit your fancy.
+description: 'Deviled eggs are my favorite party food and the perfect recipe to dedicate to my friend Camilla. At parties, I often eat too much random junk food and end up feeling gross. These eggs are a great antidote: festive and delicious without being empty calories. Although they’re a little fussy, they aren’t actually difficult to make. I’ll start you off with these few ideas, but you can add whatever flavors suit your fancy.
+
+'
 ingredients:
   required:
   - 12 eggs
@@ -60,25 +60,4 @@ ingredients:
   - bacon
   - avocado
   - olives
-instructions: "Hard-boiled eggs are easier to peel if the eggs aren’t quite fresh,
-  so try making these when you have eggs that have been sitting around for a week
-  or two.\n\nPlace a layer of eggs at the bottom of a pot that is large enough to
-  fit them with a bit of wiggle room. If you can’t fit all your eggs, don’t stack
-  them—they might crack. Split them into batches instead. \n\nCover the eggs with
-  cold water. Bring the pot to a boil over medium heat without a lid. As soon as the
-  water is boiling, turn off the heat and cover the pot with a tight lid. Set a timer
-  for 10 minutes.\n\nWhen the timer goes off, gently pour out the hot water and cover
-  the eggs with very cold water. The cold water stops the cooking process so that
-  you don’t end up with that slightly icky blue-green skin around your yolk.\n\nPeel
-  the eggs. Everyone has their own technique, but I like to gently roll each egg across
-  the counter to crack the shell. Roll the egg around until it looks like a cracked
-  desert landscape, then peel it starting from the bottom. Once peeled, rinse the
-  egg and set it aside. Repeat until you have peeled all the eggs.\n\nSlice each egg
-  in half lengthwise. Pop the yolks out and put them in a medium bowl. Don’t worry
-  if you leave a little yolk behind. Set the whites aside on a plate.\n\nSprinkle
-  the yolks with salt and pepper, then add other ingredients of your choice to the
-  bowl. Mash with a fork and mix until it becomes a relatively smooth paste.\n\nArrange
-  the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling
-  high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the
-  corner of the sandwich bag and squeeze the yolk mixture into the whites.\n\nSprinkle
-  with the scallions and some paprika for color. Have a great party!"
+instructions: "Hard-boiled eggs are easier to peel if the eggs aren’t quite fresh, so try making these when you have eggs that have been sitting around for a week or two.\n\nPlace a layer of eggs at the bottom of a pot that is large enough to fit them with a bit of wiggle room. If you can’t fit all your eggs, don’t stack them—they might crack. Split them into batches instead. \n\nCover the eggs with cold water. Bring the pot to a boil over medium heat without a lid. As soon as the water is boiling, turn off the heat and cover the pot with a tight lid. Set a timer for 10 minutes.\n\nWhen the timer goes off, gently pour out the hot water and cover the eggs with very cold water. The cold water stops the cooking process so that you don’t end up with that slightly icky blue-green skin around your yolk.\n\nPeel the eggs. Everyone has their own technique, but I like to gently roll each egg across the counter to crack the shell. Roll the egg around until it looks like a cracked desert landscape, then peel it starting from the bottom. Once peeled, rinse the egg and set it aside. Repeat until you have peeled all the eggs.\n\nSlice each egg in half lengthwise. Pop the yolks out and put them in a medium bowl. Don’t worry if you leave a little yolk behind. Set the whites aside on a plate.\n\nSprinkle the yolks with salt and pepper, then add other ingredients of your choice to the bowl. Mash with a fork and mix until it becomes a relatively smooth paste.\n\nArrange the whites on a plate and spoon the yolk mixture back into each hole. Pile the filling high! Alternatively, scoop the filling into a plastic sandwich bag. Cut off the corner of the sandwich bag and squeeze the yolk mixture into the whites.\n\nSprinkle with the scallions and some paprika for color. Have a great party!"

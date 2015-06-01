@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -18,8 +17,9 @@ category: breakfast
 serves: 4
 estimate: 2.80 USD
 makes: 10-14
-description: |
-  With the creamy texture and delicious flavor of bananas, these pancakes are stunningly good. You will be seriously popular if you feed these to your family or friends. Another plus: this is a great way to get rid of mushy bananas (that doesn’t involve making banana bread).
+description: 'With the creamy texture and delicious flavor of bananas, these pancakes are stunningly good. You will be seriously popular if you feed these to your family or friends. Another plus: this is a great way to get rid of mushy bananas (that doesn’t involve making banana bread).
+
+'
 ingredients:
   required:
   - 2 cups all-purpose flour

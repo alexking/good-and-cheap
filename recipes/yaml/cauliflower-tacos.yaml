@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,11 +16,12 @@ page: 77
 category: handheld
 serves: 2-3
 estimate: 6.00 USD
-description: |
-  This is one of my favorite ways to use roasted cauliflower other than eating it straight. It’s a delicious change from the usual vegetable taco offerings. Just look at all those crunchy bits!
+description: 'This is one of my favorite ways to use roasted cauliflower other than eating it straight. It’s a delicious change from the usual vegetable taco offerings. Just look at all those crunchy bits!
+
+'
 ingredients:
   required:
-  - '[roasted cauliflower](smoky-and-spicy-roasted-cauliflower.yaml)'
+  - "[roasted cauliflower](smoky-and-spicy-roasted-cauliflower.yaml)"
   - 6 tortillas
   - 1/2 cup cheese, grated
   - 1/2 cup salsa (p. 163) or sauce of choice

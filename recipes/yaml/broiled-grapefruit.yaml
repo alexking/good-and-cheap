@@ -1,8 +1,7 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: |
-    Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -17,8 +16,9 @@ page: 15
 category: breakfast
 serves: 2
 estimate: 3.60 USD
-description: |
-  If your oven has a broiler, this is a fast and fun way to liven up a standard, healthy breakfast of grapefruit. This method produces a hot and sticky treat.
+description: 'If your oven has a broiler, this is a fast and fun way to liven up a standard, healthy breakfast of grapefruit. This method produces a hot and sticky treat.
+
+'
 ingredients:
   required:
   - 2 grapefruit
