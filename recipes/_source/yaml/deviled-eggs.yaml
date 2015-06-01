@@ -13,7 +13,8 @@ description: |
 ingredients:
   required:
     - 12 eggs 
-    - salt and pepper 
+    - salt
+    - pepper 
 
   optional:
     - 2 scallions, finely chopped (optional)

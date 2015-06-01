@@ -11,7 +11,8 @@ ingredients:
   required:
     - vegetables
     - olive oil or butter
-    - salt and pepper
+    - salt
+    - pepper
 
   roots:
     - potatoes
