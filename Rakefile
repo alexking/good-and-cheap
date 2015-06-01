@@ -60,8 +60,11 @@ task :yaml => target_yaml
 # Add to our clobber list 
 CLOBBER
 	.include(target_json)
+	.include(target_yaml)
 	.include("#{BASE}/json")
+	.include("#{BASE}/yaml")
 	.include("#{BASE}/json/_index.json")
+	.include("#{BASE}/yaml/_index.yaml")
 
 
 # Reads and prepares a YAML file for a final output 
