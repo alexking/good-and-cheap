@@ -3,9 +3,6 @@ require 'json'
 require 'yaml'
 require 'rake/clean'
 
-#gem 'psych'
-#require 'psych'
-
 BASE = "recipes"
 
 # Default task to generate 
@@ -140,8 +137,9 @@ source.zip(target_yaml).each do |source, target|
 		data = read_and_prepare_yaml(task.source)
 
 		# Put out the JSON file 
-		# Disable line wrapping for compatibility 
-		File.write(task.name, Psych.dump(data, line_width: 9999))
+		# Note, the Psych output may be incompatible with certain parsers, in 
+		# which case you may want to use the original hand written YAML
+		File.write(task.name, Psych.dump(data))
 	end
 
 end

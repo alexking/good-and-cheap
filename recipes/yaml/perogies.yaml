@@ -1,7 +1,9 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -16,7 +18,10 @@ page: 132
 category: batches
 makes: 60-72
 estimate: 14.00 USD
-description: 'This is a huge recipe that will feed you for days. It takes time and effort, but the results are worth it. The most fun approach is to invite a couple of friends over for a perogymaking party. Everyone takes home a bag or two for the freezer, and it’s a great time!
+description: 'This is a huge recipe that will feed you for days. It takes time and
+  effort, but the results are worth it. The most fun approach is to invite a couple
+  of friends over for a perogymaking party. Everyone takes home a bag or two for the
+  freezer, and it’s a great time!
 
 '
 ingredients:

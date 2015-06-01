@@ -1,7 +1,9 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -14,7 +16,13 @@ author:
 name: Yogurt Smash!
 page: 32
 category: breakfast
-description: "There are so many types of yogurt in the grocery store: some low in fat and high in sugar, some with cute animal pictures. Some are Greek. Some have chocolate shavings and candy. Some have names like “key lime pie.” \n\nNow forget about all of that. The best value for your money are the big buckets of plain yogurt. The fat content is your choice—just check that it doesn’t contain gelatin and you’re all set. Starting with plain yogurt, you can make super flavors in your own kitchen, where you know exactly what’s going into it.\n"
+description: "There are so many types of yogurt in the grocery store: some low in
+  fat and high in sugar, some with cute animal pictures. Some are Greek. Some have
+  chocolate shavings and candy. Some have names like “key lime pie.” \n\nNow forget
+  about all of that. The best value for your money are the big buckets of plain yogurt.
+  The fat content is your choice—just check that it doesn’t contain gelatin and you’re
+  all set. Starting with plain yogurt, you can make super flavors in your own kitchen,
+  where you know exactly what’s going into it.\n"
 ingredients:
   required:
   - yogurt
@@ -29,4 +37,10 @@ ingredients:
   - kiwi, sliced
   - blueberry
   - lime
-instructions: "If you have kids, ask them what flavors they can imagine and go make it! It’s a lot more fun than letting the supermarket choose for you. Try something new and smash it in! Check out the ideas on the adjoining page. \n\nIf you want a thicker Greek-style yogurt, all you have to do is strain regular American yogurt through cheesecloth to remove the extra water. Yogurt’s versatility makes it a great staple to keep in the fridge. \n\nMix it with some of the items you see on the next page or turn it into a savory sauce like raita (p. 164) or tzatziki (p. 165)."
+instructions: "If you have kids, ask them what flavors they can imagine and go make
+  it! It’s a lot more fun than letting the supermarket choose for you. Try something
+  new and smash it in! Check out the ideas on the adjoining page. \n\nIf you want
+  a thicker Greek-style yogurt, all you have to do is strain regular American yogurt
+  through cheesecloth to remove the extra water. Yogurt’s versatility makes it a great
+  staple to keep in the fridge. \n\nMix it with some of the items you see on the next
+  page or turn it into a savory sauce like raita (p. 164) or tzatziki (p. 165)."

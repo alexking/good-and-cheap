@@ -1,7 +1,9 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -16,7 +18,13 @@ page: 106
 category: dinner
 serves: 4
 estimate: 7.20 USD
-description: 'I got really excited when my friend Iva asked for a recipe that featured the Chinese flavors she grew up with. After all, Chinese cooking depends on the same general principles as Good and Cheap: build bright flavors from a few key ingredients; use lots of veggies and just a little meat or fish. The ginger-garlic broth in this hot pot is spectacular! You can use whatever vegetables you have around, but mushrooms help create an earthy broth. The effect of such a small amount of toasted sesame oil is remarkable, too—an investment, but a transformative flavor.
+description: 'I got really excited when my friend Iva asked for a recipe that featured
+  the Chinese flavors she grew up with. After all, Chinese cooking depends on the
+  same general principles as Good and Cheap: build bright flavors from a few key ingredients;
+  use lots of veggies and just a little meat or fish. The ginger-garlic broth in this
+  hot pot is spectacular! You can use whatever vegetables you have around, but mushrooms
+  help create an earthy broth. The effect of such a small amount of toasted sesame
+  oil is remarkable, too—an investment, but a transformative flavor.
 
 '
 ingredients:

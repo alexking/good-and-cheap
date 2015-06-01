@@ -1,7 +1,9 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -16,7 +18,10 @@ page: 89
 category: dinner
 serves: 3
 estimate: 3.50 USD
-description: 'Zucchini and summer squash are so abundant in the summer months. This simple pasta is like a lighter, brighter fettuccine alfredo. It also comes together in no time—the veggies will be ready by the time your pasta is cooked. You’ll love it, I promise.
+description: 'Zucchini and summer squash are so abundant in the summer months. This
+  simple pasta is like a lighter, brighter fettuccine alfredo. It also comes together
+  in no time—the veggies will be ready by the time your pasta is cooked. You’ll love
+  it, I promise.
 
 '
 ingredients:

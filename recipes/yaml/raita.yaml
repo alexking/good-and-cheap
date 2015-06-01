@@ -1,7 +1,9 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -16,7 +18,10 @@ page: 164
 category: flavor
 makes: 2 cups
 estimate: 2.50 USD
-description: 'Raita is a traditional Indian sauce served with all kinds of things. It’s simple and surprisingly tasty. Spoon it onto [chana masala](chana-masala.yaml), the [potato and kale rolls](potato-and-kale-rolls-with-raita.yaml), or anything spicy to cool things down.
+description: 'Raita is a traditional Indian sauce served with all kinds of things.
+  It’s simple and surprisingly tasty. Spoon it onto [chana masala](chana-masala.yaml),
+  the [potato and kale rolls](potato-and-kale-rolls-with-raita.yaml), or anything
+  spicy to cool things down.
 
 '
 ingredients:

@@ -1,7 +1,9 @@
 ---
 source:
   title: 'Good and Cheap: Eat Well on $4/Day'
-  attribution: Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master’s degree in Food Studies at New York University.
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
   url: http://www.leannebrown.com/s/good-and-cheap.pdf
   license: &1
     name: Creative Commons Attribution-NonCommercialShareAlike 4.0
@@ -16,7 +18,14 @@ page: 49
 category: salad
 serves: 4
 estimate: 5.20 USD
-description: 'A former classmate, George, likes salads with a little kick. (As you can maybe tell, I do too!) For inspiration, I turned to panzanella, a classic Italian bread-and-tomato salad. The Italians are true masters of making leftovers delicious. Here, old hard bread soaks up tomato juice and dressing for a super flavorful and filling salad. You can toss in any vegetable or fruit so long as it’s juicy. Bell peppers or carrots won’t work so well, but peaches, grapes, and zucchini all do. If you don’t like spicy salads as much as George and I do, feel free to replace the jalapeño with garlic or shallot.
+description: 'A former classmate, George, likes salads with a little kick. (As you
+  can maybe tell, I do too!) For inspiration, I turned to panzanella, a classic Italian
+  bread-and-tomato salad. The Italians are true masters of making leftovers delicious.
+  Here, old hard bread soaks up tomato juice and dressing for a super flavorful and
+  filling salad. You can toss in any vegetable or fruit so long as it’s juicy. Bell
+  peppers or carrots won’t work so well, but peaches, grapes, and zucchini all do.
+  If you don’t like spicy salads as much as George and I do, feel free to replace
+  the jalapeño with garlic or shallot.
 
 '
 ingredients:
