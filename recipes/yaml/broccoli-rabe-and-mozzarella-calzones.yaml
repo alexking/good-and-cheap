@@ -1,0 +1,46 @@
+---
+source:
+  title: 'Good and Cheap: Eat Well on $4/Day'
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
+  url: http://www.leannebrown.com/s/good-and-cheap.pdf
+  license: &1
+    name: Creative Commons Attribution-NonCommercialShareAlike 4.0
+    url: http://www.creativecommons.org/licenses/by-nc-sa/4.0
+  modified: PDF to machine format and other changes
+license: *1
+author:
+  name: Leanne Brown
+  site: http://www.leannebrown.com
+name: Broccoli Rabe and Mozzarella Calzones
+page: 
+category: 
+makes: 4
+estimate: USD
+description: |
+  Calzones are pizza in a slightly different form—a form that lets you get stuff in more filling without weighing down the crust. Broccoli rabe is great, but you can use any bitter green, or even broccoli or cauliflower. You’ll love these crusty pockets full of oozy goodness!
+ingredients:
+  required:
+  - '[pizza dough](pizza-dough.yaml)'
+  - 1 tbsp olive oil
+  - 1 large bunch broccoli rabe, chopped
+  - 4 cloves garlic, finely chopped
+  - 1 tsp chili flakes
+  - salt
+  - pepper
+  - 2 cups grated mozzarella cheese
+  optional:
+  - 2 anchovies, finely chopped (optional)
+instructions: |-
+  Turn the oven to 500 °F (or as hot as your oven gets). Sprinkle a small amount of flour or cornmeal over a baking sheet and set aside.
+
+  Place a large pan on medium heat and add the olive oil. Once the oil is hot, add the tough stem ends of the broccoli rabe and cook for 2 minutes. Next, add the rest of the broccoli rabe, including the leafy parts, along with the garlic, chili flakes, and anchovies. Give the ingredients a stir and let it cook for about 5 minutes, stirring occasionally. Add salt and pepper to taste. The broccoli rabe is done when the stems are tender. Set the filling aside.
+
+  Divide the pizza dough into 4 equal pieces. Sprinkle flour over the countertop and place one of the four pieces of dough on it. Using your hands or a rolling pin, roll out the dough as you would for [pizza](potato-leek-pizza.yaml).
+
+  Roll the dough out quite thin. Pile 1/4 of your broccoli rabe mixture and 1/2 cup of mozzarella onto one side of the circle, leaving a lip around the edge.
+
+  Gather up the half of the dough that isn’t weighed down with filling and fold it over top. Pinch the edges of the dough together to create a half-moon shape. Place it carefully on the prepared baking sheet and repeat until you have four calzones.
+
+  Bake for 6 to 8 minutes or until the calzones are golden-brown on the outside. Be careful when you bite into them—they’ll be hot!

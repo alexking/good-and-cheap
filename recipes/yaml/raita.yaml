@@ -1,0 +1,42 @@
+---
+source:
+  title: 'Good and Cheap: Eat Well on $4/Day'
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
+  url: http://www.leannebrown.com/s/good-and-cheap.pdf
+  license: &1
+    name: Creative Commons Attribution-NonCommercialShareAlike 4.0
+    url: http://www.creativecommons.org/licenses/by-nc-sa/4.0
+  modified: PDF to machine format and other changes
+license: *1
+author:
+  name: Leanne Brown
+  site: http://www.leannebrown.com
+name: Raita
+page: 164
+category: flavor
+makes: 2 cups
+estimate: 2.50 USD
+description: |
+  Raita is a traditional Indian sauce served with all kinds of things. It’s simple and surprisingly tasty. Spoon it onto [chana masala](chana-masala.yaml), the [potato and kale rolls](potato-and-kale-rolls-with-raita.yaml), or anything spicy to cool things down.
+ingredients:
+  required:
+  - 1 cup cucumber, chopped
+  - 1/2 cup tomato, chopped
+  - 1/4 cup red onion, chopped
+  - 1 cup yogurt
+  - 1 tsp cumin powder
+  - 1/2 tsp cayenne powder
+  - 2 tbsp fresh cilantro, chopped
+  - salt
+  - pepper
+  additions:
+  - 1 tbsp ginger, grated
+  - 2 tbsp mint
+  - 1/4 cup chickpeas
+  - cooked spinach
+instructions: |-
+  This recipe is extremely loose. Basically, just stir some of your favorite chopped vegetables into yogurt and add salt and pepper. Use this as a stepping stone to develop your own.
+
+  After you stir all the ingredients together, store the raita in a covered container in the fridge until you’re ready to use it.

@@ -1,0 +1,48 @@
+---
+source:
+  title: 'Good and Cheap: Eat Well on $4/Day'
+  attribution: Text, recipes, and most photographs and design by Leanne Brown, in
+    fulfillment of a final project for a master’s degree in Food Studies at New York
+    University.
+  url: http://www.leannebrown.com/s/good-and-cheap.pdf
+  license: &1
+    name: Creative Commons Attribution-NonCommercialShareAlike 4.0
+    url: http://www.creativecommons.org/licenses/by-nc-sa/4.0
+  modified: PDF to machine format and other changes
+license: *1
+author:
+  name: Leanne Brown
+  site: http://www.leannebrown.com
+name: Popcorn!
+page: 74
+category: bites
+makes: 10-12 cups
+serves: 4
+estimate: 1.00 USD
+description: |
+  Popcorn is such a great snack. It’s easy to forget how easy and cheap it is to prepare at home. Try some different toppings! I’ve suggested a few on the opposite page.
+ingredients:
+  required:
+  - 1/3 cup popcorn
+  - 2 tbsp vegetable oil
+  - 2 tbsp butter, melted
+  - salt
+  additions:
+  - scallion and cilantro
+  - turmeric and coriander
+  - '[spice oil](spice-oil.yaml)'
+  - parm and black pepper
+  - cayenne and smoked paprika
+  - brown sugar and orange zest
+  - chili powder and lime
+  - parm and oregano
+instructions: |-
+  Place a large pot with a tight-fitting lid on the stove. Pour in the vegetable oil, then the popcorn kernels. Put the lid on and turn the heat to medium.
+
+  Using pot holders or oven mitts, occasionally shake the pot from side to side to make sure the kernels are evenly distributed in the oil. Once the popcorn begins to pop, turn the heat down to medium-low and gently shake again.
+
+  Once the popping slows down to 5 to 10 seconds between pops, turn the heat off. Wait until you’re sure the corn has stopped popping and remove the lid.
+
+  Move the popcorn to a bowl and pour butter, salt, and other spices or toppings over top. Gently toss to coat it evenly.
+
+  This recipe makes about 10 to 12 cups of popped popcorn—enough for four people. Eat it while it’s hot!
