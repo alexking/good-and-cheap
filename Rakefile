@@ -8,19 +8,6 @@ BASE = "recipes"
 # Default task to generate 
 task default: [ :build ]
 
-# Task to start a local development server 
-# This just lets you access things like http://127.0.0.1:8000/recipes/json/_index.json
-task :serve do 
-
-	web = WEBrick::HTTPServer.new :Port => 8000, :DocumentRoot => File.expand_path(".")
-	web.start
-
-	# http://www.ruby-doc.org/stdlib-1.9.3/libdoc/webrick/rdoc/WEBrick.html
-	trap 'INT' do 
-		server.shutdown
-	end
-end
-
 # Task to run tests 
 task :test do 
 	sh "rspec"

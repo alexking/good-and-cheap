@@ -2,9 +2,7 @@
 
 This repository contains machine readable versions of [Good and Cheap: Eat Well on $4/Day](http://www.leannebrown.com/buy/good-and-cheap) by [Leanne Brown](http://www.leannebrown.com). This project is possible because she released the book under a **Creative Commons Attribution-NonCommercialShareAlike** license. Please support openly licensed works and [check out her site](http://www.leannebrown.com), or consider [buying a print copy](http://www.leannebrown.com/buy/good-and-cheap)!
 
-![cover-image](readme-2.png)
-
-**This data is a work in progress, not all recipes have been added yet, and since they were converted by hand from the PDF, there may be some typos, inaccuracies, format inconsistencies, etc.** 
+This data is a work in progress, not all recipes have been added yet, and since they were converted by hand from the PDF, there may be some typos, inaccuracies, format inconsistencies, etc.
 
 Issues and pull requests are welcome!
 
@@ -80,8 +78,6 @@ For fields that contain lists (such as `ingredients` and `instructions`), the ba
 ## Contribute
 All data entry takes place in the `/recipes/source` folder as `YAML`. The rest of the formats are generated using `rake` (please use 10.4+), so in order to change them, you need to edit the data in the source `YAML`, then run `rake` to regenerate. 
 
-I've included a Javascript reference client to help in checking the data, and developing the format. You can view it using `rake serve`.
-
 ## License
 **Good and Cheap: Eat Well on $4/Day** by [Leanne Brown](http://www.leannebrown.com)
 
@@ -97,4 +93,4 @@ Source file is [available here](http://www.leannebrown.com/good-and-cheap.pdf) [
 
 The original material has been modified to a machine readable format, along with other changes. The results are share-alike'd under [Creative Commons Attribution NonCommercial-ShareAlike 4.0](http://www.creativecommons.org/licenses/by-nc-sa/4.0).
 
-The **code** (i.e. not recipes, recipe images) in this repository that is used to process recipes, etc., is released into the public domain via the [unlicense](http://unlicense.org). The CommonMark parser is [BSD3](/javascript/stmd/LICENSE).
+The **code** (i.e. not recipes, recipe images) in this repository that is used to process recipes, etc., is released into the public domain via the [unlicense](http://unlicense.org).
