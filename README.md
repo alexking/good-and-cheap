@@ -16,13 +16,6 @@ Issues and pull requests are welcome!
 - **Images**
 	- Full Size
 
-## Demo
-I've included a [Javascript reference client](http://alexking.github.io/good-and-cheap/) to help in checking the data, and developing the format. You can view it on [github pages](http://alexking.github.io/good-and-cheap/), or start it locally using `rake serve`.
-
-![reference](readme-1.png)
-
-This is also a work in progress, and doesn't understand how `ways` elements work yet. 
-
 ### Data
 Data is available in YAML or JSON, and recipes use the following format specification. 
 
@@ -86,6 +79,8 @@ For fields that contain lists (such as `ingredients` and `instructions`), the ba
 
 ## Contribute
 All data entry takes place in the `/recipes/source` folder as `YAML`. The rest of the formats are generated using `rake` (please use 10.4+), so in order to change them, you need to edit the data in the source `YAML`, then run `rake` to regenerate. 
+
+I've included a Javascript reference client to help in checking the data, and developing the format. You can view it using `rake serve`.
 
 ## License
 **Good and Cheap: Eat Well on $4/Day** by [Leanne Brown](http://www.leannebrown.com)
