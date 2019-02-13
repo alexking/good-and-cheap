@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<style type="text/css">
+
+		.panel-primary .panel-heading {
+			color: rgba(255, 255, 255, .7);
+		}
+
+		.panel-primary .panel-heading a {
+			color: white
+		}
+
+		#listing-wrapper {
+			padding: 10px;
+			overflow-x: scroll;
+		}
+
+		body.hide {
+			visibility: hidden;
+		}
+		
+		.ingredients { 
+			margin-top: -10px;
+		}
+	</style>
+
+	<script type="text/javascript" src="javascript/_.js"></script>
+	<script type="text/javascript" src="javascript/stmd/stmd.js"></script>
+	<script type="text/javascript" src="javascript/recipes.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.js"></script>
+	<script type="text/javascript">
+		$(function() {
+			var json = "recipes/json/";
+			var images = "recipes/_source/images/full/";
+			
+			// Setup a parser and a renderer 
+			var parse  = new stmd.DocParser();
+			var render = new stmd.HtmlRenderer();
+
+			function format(md) {
+				return render.render(parse.parse(md));
+			}
+
+			$('body').keydown(function(e) {
+				var item = false; 
+
+				if (e.keyCode == 38) {  // Up
+					item = $('#listing a.active').prev();
+				} else if (e.keyCode == 40) { // Down
+					item = $('#listing a.active').next();
+				}
+				
+				if (item) {
+					e.preventDefault();
+					e.stopPropagation();
+					loadRecipe($(item).attr('href').replace('#', ''));
+				}
+
+			});
+
+			// Search 
+			$('#search').keyup(function() {
+				var term  = $(this).val();
+				var regex = new RegExp(".*" + term + ".*");
+
+				var show = _.filter(indexData, function(item) {
+					return item.match(regex);
+				});
+
+				displayListing(show);
+			});
+
+			var indexData = []; 
+
+			$.get(json + '_index.json', function(data) {
+
+				// Replace old data 
+				indexData = data; 
+
+				// Display
+				displayListing(indexData); 
+
+				$(window).on("hashchange", function() {
+
+					var key = window.location.hash.replace("#", "");
+					loadRecipe(key); 
+
+				}); 
+
+				// Default 
+				if (window.location.hash) {
+					loadRecipe(window.location.hash.replace('#', ''));
+				} else {
+					loadRecipe($('#listing a:first').attr('href').replace('#', ''));
+				}
+
+				$('body').removeClass('hide');
+
+			}, 'json');
+
+			function displayListing(data) {
+
+				var content = ""; 
+
+				if (data.length) {
+
+					var list = []; 
+
+					$.each(data, function(i, item) {
+						list.push('<a href="#' + item + '" class="list-group-item">' + item + '</a>');
+					});
+
+					content = list.join("");
+				} else {
+					content = '<li class="list-group-item list-group-item-warning">Oh, no results?</li>';
+				}
+
+				$('#listing').html(content);
+
+			}
+
+			function loadRecipe(key) {
+
+				$('#listing a.active').removeClass('active');
+				$("#listing a[href='#" + key + "']").addClass('active');
+			
+				var image = images + key.replace('json', 'png'); 
+
+				$('#bg').css('backgroundImage', 'url(' + image + ')');
+
+				$.get(json + key, function(data) {
+					var $view = $("#view");
+
+					var desc = format(data.description);
+					
+					var inst;
+					if (data.instructions) {
+						inst = format(data.instructions);
+					}
+
+					$view.find(".title").html(data.name);
+					$view.find(".description").html(desc);
+					$view.find(".instructions").html(inst);
+
+					var html = "";
+					$.each(data.ingredients, function(category, list) {
+						html += "<h4 class='text-uppercase'>";
+						html += "<small>" + category + "</small>";
+						html += "</h4>";
+
+						var md = ""; 
+						$.each(list, function(i, item) {
+							md += " - " + item + "\n";
+						});
+						html += format(md);
+
+					});
+
+					$view.find(".ingredients").html(html); 
+					
+
+				}, 'json');
+
+			}
+
+		});
+
+	</script>
+</head>
+<body class="hide">
+
+<div class="container-fluid">
+
+	<div class="col-md-4" id="listing-wrapper">
+
+        <div class="form-group">
+			
+			<label class="sr-only" for="search">Search</label>
+
+	        <div class="input-group">
+	        	<div class="input-group-addon"><span class="glyphicon glyphicon-search"></span></div>
+				<input type="text" class="form-control" id="search" placeholder="Search">
+
+			</div>
+		</div>
+
+
+		<div id="listing" class="list-group">
+
+
+
+		</div>
+	</div>
+
+	<div id="view" class="col-md-8">
+
+		<!---<img id="picture" src="" class="img-rounded img-responsive"> -->
+
+		<div class="jumbotron" id="bg" style="background-size: cover; background: no-repeat center center; -webkit-background-size: cover; padding: 150px 0 0 0; border-radius: 0 0 5px 5px">
+		
+			<div style="background: rgba(0, 0, 0, 0.5); padding: 10px 20px; border-radius: 0 0 5px 5px">
+				<h1 class="title" style="color: white; font-size: 44px"></h1>
+				<p class="description lead text-muted" style="color: white;"></p>
+			</div>
+
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+				<div class="ingredients"></div>
+			</div>
+
+			<div id="view" class="col-md-8">
+				<div class="instructions"></div>
+			</div>
+
+			<div class="row" style="padding: 20px 30px;">
+				
+				<div class="col-md-12">
+
+					<div class="panel panel-primary" style="margin-top: 10px;">
+
+						<div class="panel-heading">
+							<h4>From <a href="http://www.leannebrown.com/buy/good-and-cheap">Good and Cheap: Eat Well on $4/Day</a> by <a href="http://www.leannebrown.com">Leanne Brown</a></h4>
+						</div>
+
+						<div class="panel-body">
+							<p><strong>Source License (from cover page)</strong></p>
+
+							<p>Text, recipes, and most photographs and design by Leanne Brown, in fulfillment of a final project for a master&rsquo;s degree in Food Studies at New York University.</p>
+
+							<p>This book is distributed under a <a href="http://www.creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution-NonCommercialShareAlike 4.0</a> license. For more information, visit <a href="http://www.creativecommons.org/licenses/by-nc-sa/4.0">www.creativecommons.org/licenses/by-nc-sa/4.0</a></p>
+
+							<p>You may freely distribute this book electronically. To download a free PDF or buy a print copy, visit <a href="http://www.leannebrown.com">www.leannebrown.com</a></p>
+						</div>
+
+						<div class="panel-footer">
+							<p>The original material has been modified to a machine readable format, along with other changes. The results are share-alike&#39;d under <a href="http://www.creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution NonCommercial-ShareAlike 4.0</a>.</p>
+						</div>
+
+					</div>
+
+					<small class="text-muted"><span class="glyphicon glyphicon-link"></span> icons via <a href="http://glyphicons.com/">glyphicons</a></small>
+
+				</div>
+
+			</div>
+	      
+	    </div>
+
+
+	</div>
+
+</div>
+
+
+</body>
+</html>
